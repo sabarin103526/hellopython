@@ -1,0 +1,2 @@
+
+web: gunicorn <abcd>.wsgi --log-file -
